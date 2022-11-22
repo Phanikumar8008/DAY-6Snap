@@ -1,1 +1,1 @@
-# DAY-6Snap
+# Day06_Boilerplate
